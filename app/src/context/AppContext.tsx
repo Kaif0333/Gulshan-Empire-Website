@@ -5,6 +5,7 @@ interface AppContextType {
   setMenuOpen: (open: boolean) => void
   toggleMenu: () => void
   activeSection: string
+  setActiveSection: (section: string) => void
   isEnquiryModalOpen: boolean
   setEnquiryModalOpen: (open: boolean) => void
   toggleEnquiryModal: () => void
