@@ -144,7 +144,7 @@ export default function LocationSection() {
           </span>
           <h2
             ref={headlineRef}
-            className="font-display font-medium text-3xl sm:text-4xl lg:text-[56px] text-ge-text-primary leading-[1.1] mb-5 max-w-[800px] mx-auto"
+            className="font-display font-medium text-3xl sm:text-4xl lg:text-[56px] text-ge-text-primary leading-relaxed mb-5 max-w-[800px] mx-auto"
           >
             <span className="word inline-block">Prime</span>{' '}
             <span className="word inline-block">NH24</span>{' '}
@@ -218,7 +218,7 @@ export default function LocationSection() {
           <div className="grid lg:grid-cols-[35%_65%] gap-8 lg:gap-12 items-start mb-8">
             {/* Left */}
             <div>
-              <h3 className="font-display font-medium text-2xl sm:text-3xl lg:text-[42px] text-ge-text-primary leading-[1.15] mb-4">
+              <h3 className="font-display font-medium text-2xl sm:text-3xl lg:text-[42px] text-ge-text-primary leading-relaxed mb-4">
                 The Wave City Advantage
               </h3>
               <p className="text-base sm:text-lg font-body text-ge-text-secondary leading-relaxed">

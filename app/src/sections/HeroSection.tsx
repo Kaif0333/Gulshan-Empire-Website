@@ -131,7 +131,7 @@ export default function HeroSection() {
           {/* Headline */}
           <h1
             ref={headlineRef}
-            className="font-display font-semibold text-4xl sm:text-5xl lg:text-7xl text-ge-text-primary leading-[1.05] mb-6"
+            className="font-display font-semibold text-4xl sm:text-5xl lg:text-7xl text-ge-text-primary leading-relaxed mb-6"
             style={{ opacity: 1 }}
           >
             <span className="word inline-block" style={{ opacity: 0 }}>Redefine</span>{' '}

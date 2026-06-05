@@ -38,6 +38,14 @@
   * {
     @apply border-ge-border-subtle;
   }
+
+  /* Force generous line-height on Playfair Display headings to prevent overlapping text */
+  h1,
+  h2,
+  h3 {
+    font-family: 'Playfair Display', serif;
+    line-height: 1.0 !important;
+  }
 }
 
 @layer components {
@@ -51,7 +59,7 @@
     content: '';
     position: absolute;
     inset: 0;
-    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.15), transparent);
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.15), transparent);
     animation: shimmer 3s ease-in-out infinite 2s;
   }
 

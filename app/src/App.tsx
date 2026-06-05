@@ -9,6 +9,8 @@ import OverviewSection from '@/sections/OverviewSection'
 import LocationSection from '@/sections/LocationSection'
 import FloorPlansSection from '@/sections/FloorPlansSection'
 import AmenitiesSection from '@/sections/AmenitiesSection'
+import InvestmentSection from '@/sections/InvestmentSection'
+import FAQSection from '@/sections/FAQSection'
 import FooterCTA from '@/sections/FooterCTA'
 import Footer from '@/sections/Footer'
 import EnquiryModal from '@/components/EnquiryModal'
@@ -68,6 +70,8 @@ function AppContent() {
         <LocationSection />
         <FloorPlansSection />
         <AmenitiesSection />
+        <InvestmentSection />
+        <FAQSection />
         <FooterCTA />
       </main>
       <Footer />

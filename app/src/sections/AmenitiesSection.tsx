@@ -88,7 +88,7 @@ export default function AmenitiesSection() {
           </span>
           <h2
             ref={headlineRef}
-            className="font-display font-medium text-3xl sm:text-4xl lg:text-[56px] text-ge-text-primary leading-[1.1] mb-5"
+            className="font-display font-medium text-3xl sm:text-4xl lg:text-[56px] text-ge-text-primary leading-relaxed mb-5"
           >
             <span className="word inline-block">The</span>{' '}
             <span className="word inline-block">Finest</span>{' '}

@@ -26,7 +26,7 @@ export default function FooterCTA() {
     <section ref={sectionRef} id="contact" className="bg-ge-bg-secondary">
       <div className="max-w-[1280px] mx-auto px-5 sm:px-8 lg:px-12 py-24 lg:py-36">
         <div ref={contentRef} className="flex flex-col items-center text-center">
-          <h2 className="font-display font-medium text-3xl sm:text-4xl lg:text-[56px] text-ge-text-primary leading-[1.1] mb-5">
+          <h2 className="font-display font-medium text-3xl sm:text-4xl lg:text-[56px] text-ge-text-primary leading-relaxed mb-5">
             Your Empire Awaits
           </h2>
 

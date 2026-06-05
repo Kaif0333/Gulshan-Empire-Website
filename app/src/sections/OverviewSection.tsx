@@ -150,7 +150,7 @@ export default function OverviewSection() {
 
             <h2
               ref={headlineRef}
-              className="font-display font-medium text-3xl sm:text-4xl lg:text-[56px] text-ge-text-primary leading-[1.1] mb-6"
+              className="font-display font-medium text-3xl sm:text-4xl lg:text-[56px] text-ge-text-primary leading-relaxed mb-6"
             >
               <span className="word inline-block">Ultra</span>{' '}
               <span className="word inline-block">Luxury</span>{' '}
