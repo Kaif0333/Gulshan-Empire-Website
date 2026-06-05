@@ -6,7 +6,7 @@ Welcome to the official frontend repository for **Gulshan Empire**, an ultra-lux
 
 ## 🌐 Live Website
 The website is deployed and live at:
-- **[Gulshan Empire Live Site](https://japan-website-work.vercel.app)**
+- **[Gulshan Empire Live Site](https://gulshan-empire.vercel.app/)**
 
 ## 🚀 Key Features
 - **Ultra Luxury Design**: Built with premium aesthetics, gold accents, and fluid animations.
