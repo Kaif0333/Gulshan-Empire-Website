@@ -1,6 +1,8 @@
 # Gulshan Empire Website
 
-Frontend repository for a luxury real estate landing page built with React, TypeScript, Vite, Tailwind CSS, and smooth animation libraries.
+Frontend repository for a real estate landing page built with React, TypeScript, Vite, Tailwind CSS, and animation libraries.
+
+![Gulshan Empire](/app/public/hero-building.jpg)
 
 ## Live Website
 
@@ -8,7 +10,7 @@ Frontend repository for a luxury real estate landing page built with React, Type
 
 ## Key Features
 
-- Premium real estate landing page design
+- Real estate landing page design
 - Responsive layout for desktop, tablet, and mobile screens
 - Enquiry-focused user interface
 - Smooth scrolling and animation effects
@@ -36,4 +38,4 @@ npm run dev
 
 ## Project Purpose
 
-This project demonstrates frontend development for a premium real estate website with responsive UI, polished visual design, conversion-focused sections, and deployment-ready project structure.
+This project demonstrates frontend development for a real estate website with responsive UI, polished visual design, conversion-focused sections, and deployment-ready project structure.
