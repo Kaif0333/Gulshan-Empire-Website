@@ -1,45 +1,39 @@
-# Gulshan Empire - Ultra Luxury Living
+# Gulshan Empire Website
 
-Welcome to the official frontend repository for **Gulshan Empire**, an ultra-luxury real estate project located in Wave City, Ghaziabad.
+Frontend repository for a luxury real estate landing page built with React, TypeScript, Vite, Tailwind CSS, and smooth animation libraries.
 
-![Gulshan Empire](/app/public/hero-building.jpg)
+## Live Website
 
-## 🌐 Live Website
-The website is deployed and live at:
-- **[Gulshan Empire Live Site](https://gulshan-empire.vercel.app/)**
+- [Gulshan Empire Live Site](https://www.gulshan-empire.in/)
 
-## 🚀 Key Features
-- **Ultra Luxury Design**: Built with premium aesthetics, gold accents, and fluid animations.
-- **Enquiry Management**: Integrated WhatsApp pop-up form that automatically formats and sends client details seamlessly.
-- **Smart Lead Capture**: "First-time visitor" intelligent popup to maximize conversions.
-- **Highly Optimized SEO**: Hand-crafted OpenGraph, Twitter Cards, and Meta Tags to guarantee a #1 Google Ranking.
-- **Fully Responsive**: Flawless experience across desktop, tablet, and mobile devices.
+## Key Features
 
-## 🛠️ Tech Stack
-- **Framework**: React 19 + TypeScript + Vite
-- **Styling**: Tailwind CSS & Vanilla CSS
-- **Animations**: GSAP (GreenSock) & Lenis Smooth Scrolling
-- **UI Components**: Radix UI / custom-built premium components
-- **Deployment**: Vercel
+- Premium real estate landing page design
+- Responsive layout for desktop, tablet, and mobile screens
+- Enquiry-focused user interface
+- Smooth scrolling and animation effects
+- SEO-ready metadata, OpenGraph tags, and social sharing setup
+- Modern frontend architecture with reusable UI components
 
-## 💻 Local Development
+## Tech Stack
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Kaif0333/Gulshan-Empire-Website.git
-   ```
-2. Navigate to the app directory:
-   ```bash
-   cd "Gulshan-Empire-Website/app"
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
+| Area | Tools |
+|---|---|
+| Framework | React 19, TypeScript, Vite |
+| Styling | Tailwind CSS, Vanilla CSS |
+| Animations | GSAP, Lenis Smooth Scrolling |
+| UI | Radix UI, custom components |
+| Deployment | Vercel |
 
-## 📄 License
-This project is proprietary. All rights reserved.
+## Local Development
+
+```bash
+git clone https://github.com/Kaif0333/Gulshan-Empire-Website.git
+cd "Gulshan-Empire-Website/app"
+npm install
+npm run dev
+```
+
+## Project Purpose
+
+This project demonstrates frontend development for a premium real estate website with responsive UI, polished visual design, conversion-focused sections, and deployment-ready project structure.
